@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there, I'm Somrita Das 👋
 
-<!--
-**Somrita-Das/Somrita-Das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate B.Tech CSE student from KIIT with a strong interest in Full stack development and full-stack projects. I love turning ideas into reality through code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Languages**: Java, JavaScript, HTML, CSS, Python
+- **Frameworks**:  React.js
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, GitHub, VS Code
+
+---
+
+### 🏆 Achievements & Roles
+- Member of **Kodessa**, KIIT's women-in-tech society
+- Completed **Cisco Networking Summer Training**
+
+---
+
+### 🎯 Interests
+- Full stack Development
+- Building real-world web apps
+- Networking & Cloud Computing
+
+---
+
+### 📫 Let's Connect!
+- 💼 [https://www.linkedin.com/in/somrita-das-1b76](#)
+- 📧 somritadas.official@gmail.com
