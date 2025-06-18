@@ -26,5 +26,5 @@ I'm a passionate B.Tech CSE student from KIIT with a strong interest in Full sta
 ---
 
 ### 📫 Let's Connect!
-- 💼 [https://www.linkedin.com/in/somrita-das-1b7613229/](#)
+- 💼 [https://www.linkedin.com/in/somrita-das-1b7613229/]
 - 📧 somritadas.official@gmail.com
