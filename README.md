@@ -7,7 +7,7 @@ I'm a passionate B.Tech CSE student from KIIT with a strong interest in Full sta
 ### 🛠️ Technical Skills
 - **Languages**: Java, JavaScript, HTML, CSS, Python
 - **Frameworks**:  React.js
-- **Databases**: MySQL, MongoDB
+- **Databases**: MySQL
 - **Tools**: Git, GitHub, VS Code
 
 ---
@@ -22,6 +22,7 @@ I'm a passionate B.Tech CSE student from KIIT with a strong interest in Full sta
 - Full stack Development
 - Building real-world web apps
 - Networking & Cloud Computing
+- Machine Learning
 
 ---
 
